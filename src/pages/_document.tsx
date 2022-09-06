@@ -8,8 +8,8 @@ export default class MyDocument extends Document{
 
                 <Head>
                     <link rel="preconnect" href="https://fonts.googleapis.com" />
-                    <link rel="preconnect" href="https://fonts.gstatic.com"  />
-                    <link href="https://fonts.googleapis.com/css2?family=Roboto+Flex:opsz,wght@8..144,400;8..144,500;8..144,700&display=swap" rel="stylesheet"></link>
+                    <link rel="preconnect" href="https://fonts.gstatic.com" />
+                    <link href="https://fonts.googleapis.com/css2?family=Roboto+Mono:wght@400;500;700&display=swap" rel="stylesheet"></link>
                 </Head>
                 <body>
                     <Main />

@@ -16,8 +16,8 @@ export const theme = extendTheme({
     },
   },
   fonts: {
-    heading: "Roboto",
-    body: "Roboto",
+    heading: "Roboto Mono",
+    body: "Roboto Mono",
   },
   styles: {
     global: {
